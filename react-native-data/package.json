@@ -1,0 +1,9 @@
+{
+  "name": "react-native-data",
+  "version": "0.0.1",
+  "description": "ORM for React",
+  "main": "index.js",
+  "repository": "",
+  "author": "Muhammad Ilyas",
+  "license": "MIT"
+}
